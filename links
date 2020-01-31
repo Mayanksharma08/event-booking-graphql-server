@@ -1,2 +1,10 @@
 https://pusher.com/tutorials/carpooling-react-native-part-1
 https://youtu.be/rOTqprHv1YE
+
+Q.3 string='hello'
+
+hasho=''
+for i in string:
+    hasho = hasho + str(ord(i))
+
+print(hasho)
